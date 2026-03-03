@@ -77,4 +77,5 @@ window.BANK = [
 {id:67,group:3,q:`Tính đạo hàm của hàm số $y = x^2 e^{3x}$.`,A:`$y^{\\prime} = 2xe^{3x} + 3x^2e^{3x}$`,B:`$y^{\\prime} = 2xe^{3x} - 3x^2e^{3x}$`,C:`$y^{\\prime} = 6xe^{3x}$`,D:`$y^{\\prime} = 2xe^{3x} + x^2e^{3x}$`,correct:"A"},
 {id:68,group:3,q:`Tính đạo hàm của hàm số $y = \\tan(4x - \\dfrac{\\pi}{3})$.`,A:`$y^{\\prime} = \\dfrac{1}{\\cos^2(4x - \\dfrac{\\pi}{3})}$`,B:`$y^{\\prime} = \\dfrac{4}{\\cos^2(4x - \\dfrac{\\pi}{3})}$`,C:`$y^{\\prime} = 4 \\cot(4x - \\dfrac{\\pi}{3})$`,D:`$y^{\\prime} = -\\dfrac{4}{\\sin^2(4x - \\dfrac{\\pi}{3})}$`,correct:"B"},
 
+
 ];
