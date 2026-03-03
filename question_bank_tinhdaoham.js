@@ -1,6 +1,6 @@
 window.BANK = [
 
------ NHÓM 1 -----
+/* ----- NHÓM 1 ----- */
   
 {id:1,group:1,q:`Tính đạo hàm của hàm số $f(x) = -3x^6 - 2x^4 + 7x + 10$`,A:`$f'(x) = -18x^5 - 8x^3 + 7$`,B:`$f'(x) = -3x^6 - 2x^3 + 7$`,C:`$f'(x) = -15x^5 - 8x^3 + 7$`,D:`$f'(x) = -3x^5 - 8x^3 + 7$`,correct:"A"},
 {id:2,group:1,q:`Tính đạo hàm của hàm số $f(x) = 4x^8 + 3x^3 - 2x + 5$`,A:`$f'(x) = 4x^7 + 9x^2 - 2$`,B:`$f'(x) = 32x^7 + 9x^2 - 2$`,C:`$f'(x) = 4x^8 + 3x^2 - 2$`,D:`$f'(x) = 28x^7 + 9x^2 - 2$`,correct:"B"},
@@ -33,7 +33,7 @@ window.BANK = [
 {id:29,group:1,q:`Tính đạo hàm của hàm số $f(x) = -3x^{10} + 4x^5 + 10x - 7$`,A:`$f'(x) = -30x^9 + 20x^4 + 10$`,B:`$f'(x) = -30x^{10} + 20x^4 + 10$`,C:`$f'(x) = -30x^9 + 15x^4 + 10$`,D:`$f'(x) = -27x^9 + 20x^4 + 10$`,correct:"A"},
 {id:30,group:1,q:`Tính đạo hàm của hàm số $f(x) = 4x^7 - 2x^2 + 3x$`,A:`$f'(x) = 28x^6 - 2x + 3$`,B:`$f'(x) = 24x^6 - 4x + 3$`,C:`$f'(x) = 28x^7 - 4x + 3$`,D:`$f'(x) = 28x^6 - 4x + 3$`,correct:"D"},
 
------ NHÓM 2 -----
+/* ----- NHÓM 2 ----- */
 
 {id:31,group:2,q:`Cho hàm số $f(x)=x^4$. Đạo hàm $f^{\\prime}(x)$ là:`,A:`$4x^3$`,B:`$x^3$`,C:`$4x$`,D:`$4x^5$`,correct:"A"},
 {id:32,group:2,q:`Đạo hàm của hàm số $y = 3x^2 - 2x + 1$ là:`,A:`$6x - 2$`,B:`$3x - 2$`,C:`$6x + 1$`,D:`$6x^2 - 2$`,correct:"A"},
@@ -56,7 +56,7 @@ window.BANK = [
 {id:49,group:2,q:`Tính đạo hàm của hàm số $y = -4x \\cos x + 2x + 9$`,A:`$y^{\\prime} = 4 \\sin x + 2$`,B:`$y^{\\prime} = -4 \\sin x + 2$`,C:`$y^{\\prime} = -4 \\cos x + 4x \\sin x + 2$`,D:`$y^{\\prime} = -4 \\cos x - 4x \\sin x + 2$`,correct:"C"},
 {id:50,group:2,q:`Tính đạo hàm của hàm số $y = 3x \\cos x - 7x$`,A:`$y^{\\prime} = 3 \\cos x + 3x \\sin x - 7$`,B:`$y^{\\prime} = 3 \\cos x - 3x \\sin x - 7$`,C:`$y^{\\prime} = -3 \\sin x - 7$`,D:`$y^{\\prime} = 3 \\sin x - 7$`,correct:"B"},
 
------ NHÓM 3 -----
+/* ----- NHÓM 3 ----- */
   
 {id:51,group:3,q:`Đạo hàm của hàm số $y = \\sqrt{2x+3}$ là:`,A:`$y^{\\prime} = \\dfrac{1}{\\sqrt{2x+3}}$`,B:`$y^{\\prime} = \\dfrac{2}{\\sqrt{2x+3}}$`,C:`$y^{\\prime} = \\dfrac{1}{2\\sqrt{2x+3}}$`,D:`$y^{\\prime} = \\dfrac{2x}{\\sqrt{2x+3}}$`,correct:"A"},
 {id:52,group:3,q:`Tính đạo hàm của hàm số $y = (x^2+1)e^x$.`,A:`$y^{\\prime} = (2x+1)e^x$`,B:`$y^{\\prime} = (x^2+2x+1)e^x$`,C:`$y^{\\prime} = (x^2+2x-1)e^x$`,D:`$y^{\\prime} = (x^2+2x)e^x$`,correct:"B"},
