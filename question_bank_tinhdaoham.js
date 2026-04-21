@@ -37,7 +37,7 @@ window.BANK = [
 
 {id:31,group:2,q:`Cho hàm số $f(x)=x^4$. Đạo hàm $f^{\\prime}(x)$ là:`,A:`$4x^3$`,B:`$x^3$`,C:`$4x$`,D:`$4x^5$`,correct:"A"},
 {id:32,group:2,q:`Đạo hàm của hàm số $y = 3x^2 - 2x + 1$ là:`,A:`$6x - 2$`,B:`$3x - 2$`,C:`$6x + 1$`,D:`$6x^2 - 2$`,correct:"A"},
-{id:33,group:2,q:`Tính đạo hàm của hàm số $y = (x^2 + 1)(x - 2)$.`,A:`$3x^2 - 4x + 1$`,B:`$2x(x - 2)$`,C:`$x^2 + 1 + x - 2$`,D:`$(x^2 + 1) + 2x(x - 2)$`,correct:"A"},
+{id:33,group:2,q:`Tính đạo hàm của hàm số $y = (x^2 + 1)(x - 2)$.`,A:`$3x^2 - 4x + 1$`,B:`$2x(x - 2)$`,C:`$x^2 + 1 + x - 2$`,D:`$(x^2 + 1) - 2x(x - 2)$`,correct:"A"},
 {id:34,group:2,q:`Đạo hàm của hàm số $y = \\dfrac{2x - 1}{x + 1}$ là:`,A:`$\\dfrac{3}{(x + 1)^2}$`,B:`$\\dfrac{1}{(x + 1)^2}$`,C:`$\\dfrac{4x - 1}{(x + 1)^2}$`,D:`$\\dfrac{-3}{(x + 1)^2}$`,correct:"A"},
 {id:35,group:2,q:`Cho hàm số $f(x)=(2x^2+3)^3$. Đạo hàm $f^{\\prime}(x)$ là:`,A:`$3(2x^2 + 3)^2$`,B:`$12x(2x^2 + 3)^2$`,C:`$4x(2x^2 + 3)^2$`,D:`$3(2x^2 + 3)^2(4x + 3)$`,correct:"B"},
 {id:36,group:2,q:`Đạo hàm của hàm số $y = \\sin(3x)$ là:`,A:`$\\cos(3x)$`,B:`$3\\cos(3x)$`,C:`$-\\cos(3x)$`,D:`$-3\\cos(3x)$`,correct:"B"},
